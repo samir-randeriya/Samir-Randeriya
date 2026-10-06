@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SaaS & Full Stack Web Applications.<br>🤝 I’m looking to collaborate on PHP, Laravel, React.js, Next.js & Vue.js projects.<br>🛠️ I’m looking for help with scalable architecture & cloud technologies.<br>🌱 I’m currently learning AI Integration & Advanced System Design.<br>💬 Ask me about PHP, Laravel, React, Vue.js, REST APIs, Production Deployment & SaaS.<br>⚡ Fun fact: I enjoy turning complex business requirements into simple, scalable solutions.
+🔭 I’m currently working on SaaS & Full Stack Web Applications.<br>🤝 I’m looking to collaborate on PHP, Laravel, Node.js, React.js, Next.js & Vue.js projects.<br>🛠️ I’m looking for help with scalable architecture & cloud technologies.<br>🌱 I’m currently learning AI Integration & Advanced System Design.<br>💬 Ask me about PHP, Laravel, Node.js, React, Vue.js, REST APIs, AWS (EC2, S3, RDS, Cloudwatch, IAM),  Production Deployment & SaaS.<br>⚡ Fun fact: I enjoy turning complex business requirements into simple, scalable solutions.
 
 
 ## 🌐 Socials:
